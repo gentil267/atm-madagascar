@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Fandraisana",
+    "about": "Mombamomba",
+    "actions": "Asa atao",
+    "impact": "Vokatra",
+    "partners": "Mpiara-miasa",
+    "contact": "Fifandraisana",
+    "donate": "Manome"
+  },
+  "hero": {
+    "badge": "🇲🇬 Fikambanana ofisialy nanomboka ny 2026",
+    "title": "ATM",
+    "subtitle": "Madagasikara",
+    "slogan": "Fifanampiana • Firaisankina • Fampandrosoana",
+    "description": "Fikambanan'ny Asa sy ny Fifanampiana miasa ho an'ny mponina sahirana ao Ranotsara Nord, Distrikan'Iakora, Faritr'Ihorombe — Madagasikara.",
+    "donateBtn": "Manome",
+    "discoverBtn": "Hijery ny asa atao"
+  },
+  "stats": {
+    "label": "Ny Vokatra",
+    "title": "Isa milaza ny zava-bita",
+    "description": "Angona mazava momba ny asantsika sy ny tanjontsika."
+  },
+  "about": {
+    "label": "Mombamomba",
+    "title": "Iza izahay ?",
+    "identity": {
+      "title": "Ny maha-izy anay",
+      "text": "Ny Fikambanan'ny Asa sy ny Fifanampiana (ATM) dia fikambanana malagasy miasa amin'ny fampiroboroboana ny fifanampiana, ny firaisankina ary ny fampandrosoana ny fiaraha-monina."
+    },
+    "mission": {
+      "title": "Ny iraka",
+      "text": "Tarihin'Andriamatoa TSIAVELA Etienne, ny ATM dia miasa indrindra ho an'ny ankizy sy fianakaviana sahirana, vehy sahirana ary anti-panahy tsy manana fanohanana."
+    },
+    "actions": {
+      "title": "Ny asa atao",
+      "text": "Ny fikambanana dia manao asa sosialy isan-karazany : fizarana fitaovam-pianarana, fanampiana sakafo, fanarahana anti-panahy ary hetsika ho fanatsarana ny fiainan'ny fiaraha-monina."
+    },
+    "partnership": {
+      "title": "Andao hiara-hiasa",
+      "text": "Manohy ny fampandrosoany ny ATM amin'ny fitadiavana fiaraha-miasa matotra, mangarahara ary maharitra, hanamafisana ny asany ho an'ny vondrom-piarahamonina sahirana."
+    }
+  },
+  "missions": {
+    "label": "Ny Saha iasantsika",
+    "title": "Ny iraka 5",
+    "description": "Miasa amin'ny sehatra 5 fototra izahay mba hahazoana vokatra maharitra.",
+    "children": {
+      "title": "Ankizy sahirana",
+      "desc": "Fisakafoana an-tsekoly, fitaovam-pianarana, fanabeazana sy sakafo mahavelona."
+    },
+    "elderly": {
+      "title": "Anti-panahy",
+      "desc": "Fanaraha-maso ara-tsosialy sy ara-pahasalamana ary fanampiana mendrika."
+    },
+    "women": {
+      "title": "Vehy sahirana",
+      "desc": "Fanomezana fahaizana, fiofanana ary fanampiana ara-toekarena."
+    },
+    "families": {
+      "title": "Fianakaviana mahantra",
+      "desc": "Fanampiana sakafo sy fanohanana ara-tsosialy."
+    },
+    "environment": {
+      "title": "Tontolo iainana",
+      "desc": "Fambolena hazo sy fanentanana ho an'ny fiaraha-monina."
+    }
+  },
+  "administrative": {
+    "label": "Toe-pitantanana",
+    "title": "Fikambanana ekena ofisialy",
+    "description": "Ekena ofisialy ao Madagasikara ny ATM ary manana ny antontan-taratasy rehetra ilaina.",
+    "documents": {
+      "receipt": "Récépissé",
+      "statCard": "Kara-takantana",
+      "delivered": "Nomena ny",
+      "receiptDesc": "Fankatoavana ofisialy ny fikambanana",
+      "statCardDesc": "Kara-takantana ofisialy"
+    },
+    "identity": {
+      "title": "Maha-izy azy ofisialy",
+      "fullName": "Anarana feno",
+      "acronym": "Fanafohezana",
+      "president": "Filoha Mpanorina",
+      "headquarters": "Foiben-toerana"
+    },
+    "contact": {
+      "title": "Fifandraisana ofisialy",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "team": {
+    "label": "Ekipanay",
+    "title": "Biraon'ny ATM",
+    "description": "Olona 10 voatokana ho amin'ny fampandrosoana an'i Ranotsara Nord",
+    "viewProfile": "Hijery ny mombamomba",
+    "profile": {
+      "bio": "Lalana niainana",
+      "location": "Ranotsara Nord, Distrikan'Iakora, Faritr'Ihorombe"
+    }
+  },
+  "footer": {
+    "description": "Fikambanan'ny Asa sy ny Fifanampiana miasa ho an'ny mponina sahirana ao Ranotsara Nord, Distrikan'Iakora, Faritr'Ihorombe.",
+    "slogan": "« Fifanampiana • Firaisankina • Fampandrosoana »",
+    "quickLinks": "Rohy haingana",
+    "ourActions": "Ny asa atao",
+    "contact": "Fifandraisana",
+    "followUs": "Araho izahay",
+    "language": "Fiteny",
+    "rights": "Zo rehetra voatokana",
+    "secured": "Tranokala voaaro",
+    "privacy": "Tsiambaratelo",
+    "terms": "Fepetra",
+    "legal": "Fepetra ara-dalàna",
+    "actionsList": {
+      "canteen": "Fisakafoana an-tsekoly",
+      "kits": "Fitaovam-pianarana",
+      "elderly": "Anti-panahy",
+      "women": "Vehy sahirana",
+      "environment": "Tontolo iainana",
+      "school": "Sekolin'ny ho avy"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+import { Link } from "@/i18n/navigation";
+
+export default function ElderlyPage() {
+  return (
+    <main>
+      <section className="py-20 bg-gradient-to-b from-green-700 to-blue-700 text-white">
+        <div className="max-w-7xl mx-auto px-6 text-center">
+          <div className="text-6xl mb-6">👵</div>
+          <h1 className="text-5xl md:text-6xl font-black mb-4">
+            Personnes âgées
+          </h1>
+          <p className="text-lg md:text-xl opacity-95 max-w-3xl mx-auto">
+            Accompagner dignement les personnes âgées sans soutien.
+          </p>
+        </div>
+      </section>
+
+      <section className="py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
+            <div>
+              <span className="text-green-700 font-bold text-sm tracking-widest uppercase">
+                Notre action
+              </span>
+              <h2 className="text-4xl md:text-5xl font-black text-gray-900 mt-3 mb-6">
+                Un accompagnement digne
+              </h2>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                L'ATM accompagne régulièrement les personnes âgées sans soutien
+                à travers un suivi social et sanitaire, une aide alimentaire et
+                un accompagnement dans leurs démarches.
+              </p>
+              <ul className="space-y-3 mb-6">
+                <li className="flex items-center gap-3 text-gray-700"><span className="text-lg">🏠</span> Visites à domicile régulières</li>
+                <li className="flex items-center gap-3 text-gray-700"><span className="text-lg">💊</span> Accès aux soins essentiels</li>
+                <li className="flex items-center gap-3 text-gray-700"><span className="text-lg">🍚</span> Aide alimentaire</li>
+                <li className="flex items-center gap-3 text-gray-700"><span className="text-lg">🤝</span> Accompagnement social</li>
+              </ul>
+              <div className="bg-green-50 border-l-4 border-green-400 p-4 rounded-r-xl">
+                <p className="text-sm text-gray-700 font-medium">
+                  ✅ <strong>Accompagnement régulier :</strong> plus de 100 personnes âgées bénéficient de notre suivi.
+                </p>
+              </div>
+            </div>
+            <div className="bg-gradient-to-br from-purple-100 to-pink-100 rounded-3xl p-12 text-center shadow-xl">
+              <div className="text-8xl mb-4">👵</div>
+              <div className="text-5xl font-black text-purple-700 mb-2">100+</div>
+              <p className="text-gray-700 font-bold">Personnes âgées accompagnées</p>
+            </div>
+          </div>
+
+          <div className="text-center">
+            <Link href="/donate" className="inline-block bg-gradient-to-r from-yellow-400 to-orange-500 text-gray-900 px-8 py-4 rounded-full font-bold text-lg hover:scale-105 transition-transform shadow-2xl">
+              💚 Soutenir nos aînés
+            </Link>
+          </div>
+        </div>
+      </section>
+    </main>
+  );
+}

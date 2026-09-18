@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "actions": "Our Actions",
+    "impact": "Impact",
+    "partners": "Partners",
+    "contact": "Contact",
+    "donate": "Donate"
+  },
+  "hero": {
+    "badge": "🇲🇬 Official association since 2026",
+    "title": "ATM",
+    "subtitle": "Madagascar",
+    "slogan": "Mutual Aid • Solidarity • Development",
+    "description": "Work and Mutuality Association working for vulnerable populations in Ranotsara Nord, Iakora District, Ihorombe Region — Madagascar.",
+    "donateBtn": "Donate",
+    "discoverBtn": "Discover our actions"
+  },
+  "stats": {
+    "label": "Our Impact",
+    "title": "Numbers that speak",
+    "description": "Concrete data about our actions and our objectives."
+  },
+  "about": {
+    "label": "About",
+    "title": "Who are we?",
+    "identity": {
+      "title": "Our identity",
+      "text": "The Work and Mutuality Association (ATM) is a Malagasy association committed to promoting mutual aid, solidarity and community development."
+    },
+    "mission": {
+      "title": "Our mission",
+      "text": "Chaired by Mr. TSIAVELA Etienne, ATM works mainly for vulnerable children and families, women in vulnerable situations and elderly people without support."
+    },
+    "actions": {
+      "title": "Our actions",
+      "text": "The association carries out various social actions: distribution of school supplies, food assistance, support for the elderly and initiatives for community well-being."
+    },
+    "partnership": {
+      "title": "Let's build together",
+      "text": "ATM continues its development by seeking serious, transparent and sustainable partnerships to strengthen its actions for the benefit of vulnerable communities."
+    }
+  },
+  "missions": {
+    "label": "Our Fields",
+    "title": "Our 5 missions",
+    "description": "We work in 5 essential areas for lasting impact.",
+    "children": {
+      "title": "Vulnerable children",
+      "desc": "School canteens, kits, access to education and nutrition."
+    },
+    "elderly": {
+      "title": "Elderly people",
+      "desc": "Social and health follow-up and dignified support."
+    },
+    "women": {
+      "title": "Vulnerable women",
+      "desc": "Empowerment, training and economic support."
+    },
+    "families": {
+      "title": "Needy families",
+      "desc": "Food assistance and social support."
+    },
+    "environment": {
+      "title": "Environment",
+      "desc": "Reforestation and community awareness."
+    }
+  },
+  "administrative": {
+    "label": "Administrative status",
+    "title": "An officially recognized association",
+    "description": "ATM is officially recognized in Madagascar and has all official documents.",
+    "documents": {
+      "receipt": "Receipt",
+      "statCard": "Statistical card",
+      "delivered": "Delivered on",
+      "receiptDesc": "Official recognition of the association",
+      "statCardDesc": "Official statistical card"
+    },
+    "identity": {
+      "title": "Official identity",
+      "fullName": "Full name",
+      "acronym": "Acronym",
+      "president": "Founding President",
+      "headquarters": "Headquarters"
+    },
+    "contact": {
+      "title": "Official contact",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "team": {
+    "label": "Our Team",
+    "title": "ATM Board",
+    "description": "10 people committed to the development of Ranotsara Nord",
+    "viewProfile": "View profile",
+    "profile": {
+      "bio": "Background",
+      "location": "Ranotsara Nord, Iakora District, Ihorombe Region"
+    }
+  },
+  "footer": {
+    "description": "Work and Mutuality Association working for vulnerable populations in Ranotsara Nord, Iakora District, Ihorombe Region.",
+    "slogan": "« Mutual Aid • Solidarity • Development »",
+    "quickLinks": "Quick Links",
+    "ourActions": "Our Actions",
+    "contact": "Contact",
+    "followUs": "Follow us",
+    "language": "Language",
+    "rights": "All rights reserved",
+    "secured": "Secured site",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "legal": "Legal notice",
+    "actionsList": {
+      "canteen": "School Canteen",
+      "kits": "School Kits",
+      "elderly": "Elderly People",
+      "women": "Vulnerable Women",
+      "environment": "Environment",
+      "school": "School of the Future"
+    }
+  }
+}

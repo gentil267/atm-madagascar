@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "actions": "Nos actions",
+    "impact": "Impact",
+    "partners": "Partenaires",
+    "contact": "Contact",
+    "donate": "Faire un don"
+  },
+  "hero": {
+    "badge": "🇲🇬 Association officielle depuis 2026",
+    "title": "ATM",
+    "subtitle": "Madagascar",
+    "slogan": "Entraide • Solidarité • Développement",
+    "description": "Association de Travail et de Mutualité œuvrant pour les populations vulnérables de Ranotsara Nord, District d'Iakora, Région Ihorombe — Madagascar.",
+    "donateBtn": "Faire un don",
+    "discoverBtn": "Découvrir nos actions"
+  },
+  "stats": {
+    "label": "Notre Impact",
+    "title": "Des chiffres qui parlent",
+    "description": "Des données concrètes sur nos actions et nos objectifs."
+  },
+  "about": {
+    "label": "À propos",
+    "title": "Qui sommes-nous ?",
+    "identity": {
+      "title": "Notre identité",
+      "text": "L'Association de Travail et de Mutualité (ATM) est une association malgache engagée dans la promotion de l'entraide, de la solidarité et du développement communautaire."
+    },
+    "mission": {
+      "title": "Notre mission",
+      "text": "Présidée par TSIAVELA Etienne, l'ATM œuvre principalement en faveur des enfants et familles vulnérables, des femmes en situation de vulnérabilité et des personnes âgées sans soutien."
+    },
+    "actions": {
+      "title": "Nos actions",
+      "text": "L'association mène différentes actions sociales : distribution de fournitures scolaires, appui alimentaire, accompagnement des personnes âgées et initiatives pour le bien-être communautaire."
+    },
+    "partnership": {
+      "title": "Construisons ensemble",
+      "text": "L'ATM poursuit son développement en recherchant des partenariats sérieux, transparents et durables, afin de renforcer ses actions au bénéfice des communautés vulnérables."
+    }
+  },
+  "missions": {
+    "label": "Nos Domaines",
+    "title": "Nos 5 missions",
+    "description": "Nous intervenons dans 5 domaines essentiels pour un impact durable.",
+    "children": {
+      "title": "Enfants vulnérables",
+      "desc": "Cantines scolaires, kits, accès à l'éducation et à la nutrition."
+    },
+    "elderly": {
+      "title": "Personnes âgées",
+      "desc": "Suivi social, sanitaire et accompagnement digne."
+    },
+    "women": {
+      "title": "Femmes vulnérables",
+      "desc": "Autonomisation, formation et accompagnement économique."
+    },
+    "families": {
+      "title": "Familles démunies",
+      "desc": "Assistance alimentaire et soutien social."
+    },
+    "environment": {
+      "title": "Environnement",
+      "desc": "Reboisement et sensibilisation communautaire."
+    }
+  },
+  "administrative": {
+    "label": "Situation administrative",
+    "title": "Une association officiellement reconnue",
+    "description": "L'ATM est officiellement reconnue à Madagascar et dispose de tous les documents officiels.",
+    "documents": {
+      "receipt": "Récépissé",
+      "statCard": "Carte statistique",
+      "delivered": "Délivré le",
+      "receiptDesc": "Reconnaissance officielle de l'association",
+      "statCardDesc": "Carte statistique officielle"
+    },
+    "identity": {
+      "title": "Identité officielle",
+      "fullName": "Nom complet",
+      "acronym": "Sigle",
+      "president": "Président-Fondateur",
+      "headquarters": "Siège social"
+    },
+    "contact": {
+      "title": "Contact officiel",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "team": {
+    "label": "Notre Équipe",
+    "title": "Le Bureau de l'ATM",
+    "description": "10 personnes engagées pour le développement de Ranotsara Nord",
+    "viewProfile": "Voir le profil",
+    "profile": {
+      "bio": "Parcours",
+      "location": "Ranotsara Nord, District d'Iakora, Région Ihorombe"
+    }
+  },
+  "footer": {
+    "description": "Association de Travail et de Mutualité œuvrant pour les populations vulnérables de Ranotsara Nord, District d'Iakora, Région Ihorombe.",
+    "slogan": "« Entraide • Solidarité • Développement »",
+    "quickLinks": "Liens rapides",
+    "ourActions": "Nos actions",
+    "contact": "Contact",
+    "followUs": "Suivez-nous",
+    "language": "Langue",
+    "rights": "Tous droits réservés",
+    "secured": "Site sécurisé",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "legal": "Mentions légales",
+    "actionsList": {
+      "canteen": "Cantine scolaire",
+      "kits": "Kits scolaires",
+      "elderly": "Personnes âgées",
+      "women": "Femmes vulnérables",
+      "environment": "Environnement",
+      "school": "École de l'Avenir"
+    }
+  }
+}
