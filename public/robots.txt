@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Sitemap officiel ATM Madagascar
+Sitemap: https://atm-madagascar.vercel.app/sitemap.xml
+
+# Bots spécifiques
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
