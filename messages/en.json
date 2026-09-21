@@ -93,12 +93,31 @@
   "team": {
     "label": "Our Team",
     "title": "ATM Board",
-    "description": "10 people committed to the development of Ranotsara Nord",
+    "description": "11 people committed to the development of Ranotsara Nord",
     "viewProfile": "View profile",
     "profile": {
       "bio": "Background",
       "location": "Ranotsara Nord, Iakora District, Ihorombe Region"
     }
+  },
+  "history": {
+    "label": "Our History",
+    "title": "A commitment since 2012",
+    "description": "From one man's vision to an official association serving the Ranotsara Nord community."
+  },
+  "services": {
+    "label": "Our Services",
+    "title": "What we do concretely",
+    "description": "Discover the 6 areas of ATM's intervention to support vulnerable populations."
+  },
+  "whyUs": {
+    "label": "Why ATM?",
+    "title": "Why choose us",
+    "description": "8 reasons to trust the Work and Mutuality Association.",
+    "ctaTitle": "Join our mission",
+    "ctaText": "Your support changes lives in Ranotsara Nord. Together, let's build a better future.",
+    "ctaDonate": "Donate",
+    "ctaContact": "Contact us"
   },
   "footer": {
     "description": "Work and Mutuality Association working for vulnerable populations in Ranotsara Nord, Iakora District, Ihorombe Region.",

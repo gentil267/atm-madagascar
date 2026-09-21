@@ -93,12 +93,31 @@
   "team": {
     "label": "Notre Équipe",
     "title": "Le Bureau de l'ATM",
-    "description": "10 personnes engagées pour le développement de Ranotsara Nord",
+    "description": "11 personnes engagées pour le développement de Ranotsara Nord",
     "viewProfile": "Voir le profil",
     "profile": {
       "bio": "Parcours",
       "location": "Ranotsara Nord, District d'Iakora, Région Ihorombe"
     }
+  },
+  "history": {
+    "label": "Notre Histoire",
+    "title": "Un engagement depuis 2012",
+    "description": "De la vision d'un homme à une association officielle au service de la communauté de Ranotsara Nord."
+  },
+  "services": {
+    "label": "Nos Services",
+    "title": "Ce que nous faisons concrètement",
+    "description": "Découvrez les 6 domaines d'intervention de l'ATM pour soutenir les populations vulnérables."
+  },
+  "whyUs": {
+    "label": "Pourquoi ATM ?",
+    "title": "Pourquoi nous choisir",
+    "description": "8 raisons de faire confiance à l'Association de Travail et de Mutualité.",
+    "ctaTitle": "Rejoignez notre mission",
+    "ctaText": "Votre soutien change des vies à Ranotsara Nord. Ensemble, construisons un avenir meilleur.",
+    "ctaDonate": "Faire un don",
+    "ctaContact": "Nous contacter"
   },
   "footer": {
     "description": "Association de Travail et de Mutualité œuvrant pour les populations vulnérables de Ranotsara Nord, District d'Iakora, Région Ihorombe.",

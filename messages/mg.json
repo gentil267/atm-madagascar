@@ -93,12 +93,31 @@
   "team": {
     "label": "Ekipanay",
     "title": "Biraon'ny ATM",
-    "description": "Olona 10 voatokana ho amin'ny fampandrosoana an'i Ranotsara Nord",
+    "description": "Olona 11 voatokana ho amin'ny fampandrosoana an'i Ranotsara Nord",
     "viewProfile": "Hijery ny mombamomba",
     "profile": {
       "bio": "Lalana niainana",
       "location": "Ranotsara Nord, Distrikan'Iakora, Faritr'Ihorombe"
     }
+  },
+  "history": {
+    "label": "Tantaranay",
+    "title": "Fanoloran-tena nanomboka ny 2012",
+    "description": "Nanomboka tamin'ny fahitan'iza iray ka lasa fikambanana ofisialy manompo ny fiaraha-monina ao Ranotsara Nord."
+  },
+  "services": {
+    "label": "Ny Asa atao",
+    "title": "Izay ataontsika mazava ho azy",
+    "description": "Jereo ny sehatra 6 iasantsika hanohanana ny mponina sahirana."
+  },
+  "whyUs": {
+    "label": "Nahoana ATM ?",
+    "title": "Nahoana no misafidy anay",
+    "description": "Antony 8 hatokisana ny Fikambanan'ny Asa sy ny Fifanampiana.",
+    "ctaTitle": "Miara-miasa aminay",
+    "ctaText": "Ny fanohananao dia manova fiainana ao Ranotsara Nord. Andao hanangana hoavy tsara kokoa.",
+    "ctaDonate": "Manome",
+    "ctaContact": "Mifandraisa aminay"
   },
   "footer": {
     "description": "Fikambanan'ny Asa sy ny Fifanampiana miasa ho an'ny mponina sahirana ao Ranotsara Nord, Distrikan'Iakora, Faritr'Ihorombe.",

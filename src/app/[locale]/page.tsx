@@ -5,6 +5,9 @@ import About from "@/components/sections/About";
 import Missions from "@/components/sections/Missions";
 import Administrative from "@/components/sections/Administrative";
 import Team from "@/components/sections/Team";
+import History from "@/components/sections/History";
+import Services from "@/components/sections/Services";
+import WhyUs from "@/components/sections/WhyUs";
 
 export default async function Home({
   params,
@@ -20,7 +23,10 @@ export default async function Home({
       <Stats />
       <About />
       <Missions />
+      <History />
+      <Services />
       <Administrative />
+      <WhyUs />
       <Team />
     </main>
   );

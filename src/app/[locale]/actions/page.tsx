@@ -1,6 +1,16 @@
+import { setRequestLocale } from "next-intl/server";
 import Missions from "@/components/sections/Missions";
+import Services from "@/components/sections/Services";
+import WhyUs from "@/components/sections/WhyUs";
 
-export default function ActionsPage() {
+export default async function ActionsPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+
   return (
     <main>
       <section className="py-20 bg-gradient-to-b from-green-700 to-blue-700 text-white">
@@ -15,6 +25,8 @@ export default function ActionsPage() {
         </div>
       </section>
       <Missions />
+      <Services />
+      <WhyUs />
     </main>
   );
 }
