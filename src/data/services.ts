@@ -15,9 +15,9 @@ export const services: Service[] = [
     description:
       "Offrir un repas chaud et équilibré aux enfants pour favoriser leur apprentissage et leur développement.",
     features: [
-      "Repas quotidiens équilibrés",
+      "Repas réguliers et équilibrés",
       "Phase pilote : 50+ enfants",
-      "Amélioration de l'assiduité scolaire",
+      "Contribution à l'assiduité scolaire",
       "Lutte contre la malnutrition",
     ],
     color: "from-green-500 to-green-700",

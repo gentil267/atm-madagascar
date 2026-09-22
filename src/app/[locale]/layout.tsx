@@ -14,12 +14,12 @@ export const metadata: Metadata = {
     template: "%s | ATM Madagascar",
   },
   description:
-    "Association de Travail et de Mutualité (ATM) — ONG malgache œuvrant pour les enfants et familles vulnérables, les femmes en situation de précarité et les personnes âgées sans soutien à Ranotsara Nord, District d'Iakora, Région Ihorombe, Madagascar.",
+    "Association malgache engagée pour les populations vulnérables de Ranotsara Nord. Éducation, solidarité et développement communautaire. Association de Travail et de Mutualité (ATM) — District d'Iakora, Région Ihorombe, Madagascar.",
   keywords: [
     "ATM Madagascar",
     "Association de Travail et de Mutualité",
-    "ONG Madagascar",
     "association malgache",
+    "association Madagascar",
     "solidarité Madagascar",
     "entraide Madagascar",
     "développement communautaire Madagascar",
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     siteName: "ATM Madagascar",
     title: "ATM Madagascar — Entraide • Solidarité • Développement",
     description:
-      "ONG malgache œuvrant pour les populations vulnérables de Ranotsara Nord. Éducation, solidarité et développement communautaire.",
+      "Association malgache engagée pour les populations vulnérables de Ranotsara Nord. Éducation, solidarité et développement communautaire.",
     images: [
       {
         url: "/images/logo/logo-atm.png",
@@ -72,7 +72,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "ATM Madagascar — Entraide • Solidarité • Développement",
     description:
-      "ONG malgache œuvrant pour les populations vulnérables de Ranotsara Nord.",
+      "Association malgache engagée pour les populations vulnérables de Ranotsara Nord.",
     images: ["/images/logo/logo-atm.png"],
   },
   robots: {

@@ -70,7 +70,7 @@
   "administrative": {
     "label": "Toe-pitantanana",
     "title": "Fikambanana ekena ofisialy",
-    "description": "Ekena ofisialy ao Madagasikara ny ATM ary manana ny antontan-taratasy rehetra ilaina.",
+    "description": "Ekena ofisialy ao Madagasikara ny ATM ary manana ny antontan-taratasy ara-pitantanana fototra ilaina.",
     "documents": {
       "receipt": "Récépissé",
       "statCard": "Kara-takantana",
@@ -93,7 +93,7 @@
   "team": {
     "label": "Ekipanay",
     "title": "Biraon'ny ATM",
-    "description": "Olona 11 voatokana ho amin'ny fampandrosoana an'i Ranotsara Nord",
+    "description": "Ekipa 11 mpikambana voatokana, tarihin'ny vina fifanampiana teraka tamin'ny 2012.",
     "viewProfile": "Hijery ny mombamomba",
     "profile": {
       "bio": "Lalana niainana",
@@ -112,7 +112,7 @@
   },
   "whyUs": {
     "label": "Nahoana ATM ?",
-    "title": "Nahoana no misafidy anay",
+    "title": "Nahoana no hiara-miasa amin'ny ATM ?",
     "description": "Antony 8 hatokisana ny Fikambanan'ny Asa sy ny Fifanampiana.",
     "ctaTitle": "Miara-miasa aminay",
     "ctaText": "Ny fanohananao dia manova fiainana ao Ranotsara Nord. Andao hanangana hoavy tsara kokoa.",

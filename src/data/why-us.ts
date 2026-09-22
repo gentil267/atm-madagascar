@@ -18,7 +18,7 @@ export const whyUs: Reason[] = [
   {
     id: 2,
     icon: "🔍",
-    title: "Transparence totale",
+    title: "Engagement en faveur de la transparence",
     description:
       "Chaque don et chaque action sont documentés. Les rapports financiers et d'activité sont disponibles pour tous nos partenaires.",
     color: "from-blue-500 to-blue-700",
@@ -34,7 +34,7 @@ export const whyUs: Reason[] = [
   {
     id: 4,
     icon: "📊",
-    title: "Résultats mesurables",
+    title: "Suivi des résultats et de l'impact",
     description:
       "Chaque action est suivie et évaluée. Nous mesurons l'impact réel de nos interventions sur la communauté.",
     color: "from-purple-500 to-pink-500",
@@ -44,7 +44,7 @@ export const whyUs: Reason[] = [
     icon: "👥",
     title: "Équipe engagée et expérimentée",
     description:
-      "11 membres fondateurs engagés depuis 2012, avec une connaissance profonde du terrain et des besoins locaux.",
+      "Une équipe de 11 membres engagés, portée par une vision de solidarité née en 2012, avec une connaissance profonde du terrain et des besoins locaux.",
     color: "from-emerald-500 to-teal-600",
   },
   {

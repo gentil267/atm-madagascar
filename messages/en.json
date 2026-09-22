@@ -70,7 +70,7 @@
   "administrative": {
     "label": "Administrative status",
     "title": "An officially recognized association",
-    "description": "ATM is officially recognized in Madagascar and has all official documents.",
+    "description": "ATM is officially recognized in Madagascar and has its main official administrative documents.",
     "documents": {
       "receipt": "Receipt",
       "statCard": "Statistical card",
@@ -93,7 +93,7 @@
   "team": {
     "label": "Our Team",
     "title": "ATM Board",
-    "description": "11 people committed to the development of Ranotsara Nord",
+    "description": "A team of 11 committed members, driven by a vision of solidarity born in 2012.",
     "viewProfile": "View profile",
     "profile": {
       "bio": "Background",
@@ -112,7 +112,7 @@
   },
   "whyUs": {
     "label": "Why ATM?",
-    "title": "Why choose us",
+    "title": "Why collaborate with ATM?",
     "description": "8 reasons to trust the Work and Mutuality Association.",
     "ctaTitle": "Join our mission",
     "ctaText": "Your support changes lives in Ranotsara Nord. Together, let's build a better future.",
