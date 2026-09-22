@@ -87,8 +87,15 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: "/images/logo/logo-atm.png",
-    apple: "/images/logo/logo-atm.png",
+    icon: [
+      { url: "/icon.png", type: "image/png" },
+      { url: "/images/logo/logo-atm.png", type: "image/png" },
+    ],
+    apple: [
+      { url: "/apple-icon.png", type: "image/png" },
+      { url: "/images/logo/logo-atm.png", type: "image/png" },
+    ],
+    shortcut: "/icon.png",
   },
   verification: {
     google: "à-remplir-plus-tard",
