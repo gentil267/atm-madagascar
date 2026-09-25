@@ -23,13 +23,49 @@ export const organization = {
       description: "Reconnaissance officielle de l'association",
     },
     {
-      type: "Carte statistique",
-      numero: "N°94111242026000527",
+      type: "Carte statistique INSTAT",
+      numero: "94111 24 2026 0 00527",
       date: "25 août 2026",
       lieu: "Madagascar",
-      description: "Carte statistique officielle",
+      description: "Carte statistique officielle INSTAT",
+    },
+    {
+      type: "NIF",
+      numero: "5020087957",
+      date: "2026",
+      lieu: "Centre Fiscal Ihosy",
+      description: "Numéro d'Identification Fiscale",
+    },
+    {
+      type: "Carte fiscale",
+      numero: "2026",
+      date: "Validité jusqu'au 31/03/2027",
+      lieu: "Centre Fiscal Ihosy",
+      description: "Carte fiscale officielle 2026",
+    },
+    {
+      type: "Statuts",
+      numero: "Légalisés",
+      date: "2026",
+      lieu: "Service fiscal",
+      description: "Statuts de l'association légalisés par le service fiscal",
+    },
+    {
+      type: "Certificat d'existence",
+      numero: "Officiel",
+      date: "2026",
+      lieu: "Madagascar",
+      description: "Certificat d'existence officiel de l'association",
     },
   ],
+  
+  fiscal: {
+    nif: "5020087957",
+    numeroStatistique: "94111 24 2026 0 00527",
+    centreFiscal: "Centre Fiscal Ihosy",
+    carteFiscale: "2026",
+    validite: "31/03/2027",
+  },
   
   contact: {
     telephone1: "+261 33 23 398 43",

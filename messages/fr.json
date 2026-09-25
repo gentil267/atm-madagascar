@@ -67,16 +67,33 @@
       "desc": "Reboisement et sensibilisation communautaire."
     }
   },
-  "administrative": {
+    "administrative": {
     "label": "Situation administrative",
     "title": "Une association officiellement reconnue",
-    "description": "L'ATM est officiellement reconnue à Madagascar et dispose de ses principaux documents administratifs officiels.",
+    "description": "L'ATM est officiellement reconnue à Madagascar et dispose de ses principaux documents administratifs officiels, y compris ses documents fiscaux.",
     "documents": {
       "receipt": "Récépissé",
-      "statCard": "Carte statistique",
+      "statCard": "Carte statistique INSTAT",
+      "nif": "NIF",
+      "fiscalCard": "Carte fiscale",
+      "statutes": "Statuts légalisés",
+      "existenceCert": "Certificat d'existence",
       "delivered": "Délivré le",
+      "validUntil": "Valide jusqu'au",
       "receiptDesc": "Reconnaissance officielle de l'association",
-      "statCardDesc": "Carte statistique officielle"
+      "statCardDesc": "Carte statistique officielle INSTAT",
+      "nifDesc": "Numéro d'Identification Fiscale",
+      "fiscalCardDesc": "Carte fiscale officielle",
+      "statutesDesc": "Statuts légalisés par le service fiscal",
+      "existenceCertDesc": "Certificat d'existence officiel"
+    },
+    "fiscal": {
+      "title": "Informations fiscales",
+      "nif": "NIF",
+      "statNumber": "Numéro statistique",
+      "fiscalCenter": "Centre fiscal",
+      "fiscalCard": "Carte fiscale",
+      "validity": "Validité"
     },
     "identity": {
       "title": "Identité officielle",
@@ -89,6 +106,7 @@
       "title": "Contact officiel",
       "whatsapp": "WhatsApp"
     }
+  
   },
   "team": {
     "label": "Notre Équipe",

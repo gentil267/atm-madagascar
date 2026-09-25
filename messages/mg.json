@@ -67,16 +67,33 @@
       "desc": "Fambolena hazo sy fanentanana ho an'ny fiaraha-monina."
     }
   },
-  "administrative": {
+   "administrative": {
     "label": "Toe-pitantanana",
     "title": "Fikambanana ekena ofisialy",
-    "description": "Ekena ofisialy ao Madagasikara ny ATM ary manana ny antontan-taratasy ara-pitantanana fototra ilaina.",
+    "description": "Ekena ofisialy ao Madagasikara ny ATM ary manana ny antontan-taratasy ara-pitantanana fototra ilaina, ao anatin'izany ny antontan-taratasy ara-bola.",
     "documents": {
       "receipt": "Récépissé",
-      "statCard": "Kara-takantana",
+      "statCard": "Kara-takantana INSTAT",
+      "nif": "NIF",
+      "fiscalCard": "Kara-bola",
+      "statutes": "Fitsipika voamarina",
+      "existenceCert": "Taratasy fanamarinana fisiana",
       "delivered": "Nomena ny",
+      "validUntil": "Mavitrika hatramin'ny",
       "receiptDesc": "Fankatoavana ofisialy ny fikambanana",
-      "statCardDesc": "Kara-takantana ofisialy"
+      "statCardDesc": "Kara-takantana ofisialy INSTAT",
+      "nifDesc": "Laharana fanondroana ara-bola",
+      "fiscalCardDesc": "Kara-bola ofisialy",
+      "statutesDesc": "Fitsipika voamarina tamin'ny sampan-draharaha ara-bola",
+      "existenceCertDesc": "Taratasy fanamarinana fisiana ofisialy"
+    },
+    "fiscal": {
+      "title": "Fampahalalana ara-bola",
+      "nif": "NIF",
+      "statNumber": "Laharana statistika",
+      "fiscalCenter": "Foibe ara-bola",
+      "fiscalCard": "Kara-bola",
+      "validity": "Mavitrika"
     },
     "identity": {
       "title": "Maha-izy azy ofisialy",

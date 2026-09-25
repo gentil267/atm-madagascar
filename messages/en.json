@@ -67,16 +67,33 @@
       "desc": "Reforestation and community awareness."
     }
   },
-  "administrative": {
+    "administrative": {
     "label": "Administrative status",
     "title": "An officially recognized association",
-    "description": "ATM is officially recognized in Madagascar and has its main official administrative documents.",
+    "description": "ATM is officially recognized in Madagascar and has its main official administrative documents, including its tax documents.",
     "documents": {
       "receipt": "Receipt",
-      "statCard": "Statistical card",
+      "statCard": "INSTAT Statistical card",
+      "nif": "TIN",
+      "fiscalCard": "Tax card",
+      "statutes": "Legalized statutes",
+      "existenceCert": "Certificate of existence",
       "delivered": "Delivered on",
+      "validUntil": "Valid until",
       "receiptDesc": "Official recognition of the association",
-      "statCardDesc": "Official statistical card"
+      "statCardDesc": "Official INSTAT statistical card",
+      "nifDesc": "Tax Identification Number",
+      "fiscalCardDesc": "Official tax card",
+      "statutesDesc": "Statutes legalized by the tax service",
+      "existenceCertDesc": "Official certificate of existence"
+    },
+    "fiscal": {
+      "title": "Tax information",
+      "nif": "TIN",
+      "statNumber": "Statistical number",
+      "fiscalCenter": "Tax center",
+      "fiscalCard": "Tax card",
+      "validity": "Validity"
     },
     "identity": {
       "title": "Official identity",
