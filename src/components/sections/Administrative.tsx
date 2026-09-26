@@ -135,16 +135,7 @@ export default function Administrative() {
                 </p>
               </div>
 
-              <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-5 border border-white/20">
-                <p className="text-xs uppercase tracking-wider opacity-80 mb-2">
-                  {t("fiscal.validity")}
-                </p>
-                <p className="text-2xl font-black text-yellow-400">
-                  {organization.fiscal.validite}
-                </p>
-              </div>
-
-              <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-5 border border-white/20 flex items-center justify-center">
+              <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-5 border border-white/20 flex items-center justify-center col-span-1 sm:col-span-2 lg:col-span-2">
                 <div className="text-center">
                   <p className="text-4xl mb-1">✅</p>
                   <p className="text-xs uppercase tracking-wider opacity-80">

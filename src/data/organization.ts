@@ -39,7 +39,7 @@ export const organization = {
     {
       type: "Carte fiscale",
       numero: "2026",
-      date: "Validité jusqu'au 31/03/2027",
+      date: "2026",
       lieu: "Centre Fiscal Ihosy",
       description: "Carte fiscale officielle 2026",
     },
@@ -64,7 +64,6 @@ export const organization = {
     numeroStatistique: "94111 24 2026 0 00527",
     centreFiscal: "Centre Fiscal Ihosy",
     carteFiscale: "2026",
-    validite: "31/03/2027",
   },
   
   contact: {
