@@ -67,7 +67,7 @@
       "desc": "Reforestation and community awareness."
     }
   },
-    "administrative": {
+  "administrative": {
     "label": "Administrative status",
     "title": "An officially recognized association",
     "description": "ATM is officially recognized in Madagascar and has its main official administrative documents, including its tax documents.",
@@ -135,6 +135,42 @@
     "ctaText": "Your support changes lives in Ranotsara Nord. Together, let's build a better future.",
     "ctaDonate": "Donate",
     "ctaContact": "Contact us"
+  },
+  "impact": {
+    "label": "Our Impact",
+    "title": "Our results in numbers",
+    "description": "Concrete data that demonstrates our commitment on the ground.",
+    "goalsTitle": "Our goals",
+    "goalsDescription": "A clear vision for the coming years."
+  },
+  "missions2027": {
+    "label": "Our Missions",
+    "title": "Our vision 2027-2030",
+    "description": "An ambitious plan to transform the Ranotsara Nord community."
+  },
+  "partners": {
+    "label": "Our Partners",
+    "title": "They trust us",
+    "description": "Organizations that share our vision and support our actions.",
+    "currentPartners": "Current and ongoing partners"
+  },
+  "reports": {
+    "label": "Transparency",
+    "title": "Our official documents",
+    "description": "All our official documents downloadable in full transparency.",
+    "transparencyTitle": "Our commitment to transparency",
+    "transparencyText": "Every official document is made available to our partners and donors. We believe in transparent and responsible management of resources."
+  },
+  "partnership": {
+    "label": "Partnership",
+    "title": "Become a partner of ATM",
+    "description": "Together, let's build a better future for vulnerable communities in Madagascar.",
+    "whyTitle": "Why collaborate with ATM?",
+    "typesTitle": "Types of partnership",
+    "ctaTitle": "Join our mission",
+    "ctaText": "Your support changes lives in Ranotsara Nord. Together, let's build a better future.",
+    "ctaContact": "Contact us",
+    "ctaDonate": "Donate"
   },
   "footer": {
     "description": "Work and Mutuality Association working for vulnerable populations in Ranotsara Nord, Iakora District, Ihorombe Region.",

@@ -67,7 +67,7 @@
       "desc": "Reboisement et sensibilisation communautaire."
     }
   },
-    "administrative": {
+  "administrative": {
     "label": "Situation administrative",
     "title": "Une association officiellement reconnue",
     "description": "L'ATM est officiellement reconnue à Madagascar et dispose de ses principaux documents administratifs officiels, y compris ses documents fiscaux.",
@@ -106,7 +106,6 @@
       "title": "Contact officiel",
       "whatsapp": "WhatsApp"
     }
-  
   },
   "team": {
     "label": "Notre Équipe",
@@ -136,6 +135,42 @@
     "ctaText": "Votre soutien change des vies à Ranotsara Nord. Ensemble, construisons un avenir meilleur.",
     "ctaDonate": "Faire un don",
     "ctaContact": "Nous contacter"
+  },
+  "impact": {
+    "label": "Notre Impact",
+    "title": "Nos résultats en chiffres",
+    "description": "Des données concrètes qui témoignent de notre engagement sur le terrain.",
+    "goalsTitle": "Nos objectifs",
+    "goalsDescription": "Une vision claire pour les prochaines années."
+  },
+  "missions2027": {
+    "label": "Nos Missions",
+    "title": "Notre vision 2027-2030",
+    "description": "Un plan ambitieux pour transformer la communauté de Ranotsara Nord."
+  },
+  "partners": {
+    "label": "Nos Partenaires",
+    "title": "Ils nous font confiance",
+    "description": "Des organisations qui partagent notre vision et soutiennent nos actions.",
+    "currentPartners": "Partenaires actuels et en cours"
+  },
+  "reports": {
+    "label": "Transparence",
+    "title": "Nos documents officiels",
+    "description": "Tous nos documents officiels téléchargeables en toute transparence.",
+    "transparencyTitle": "Notre engagement de transparence",
+    "transparencyText": "Chaque document officiel est mis à disposition de nos partenaires et donateurs. Nous croyons en une gestion transparente et responsable des ressources."
+  },
+  "partnership": {
+    "label": "Partenariat",
+    "title": "Devenir partenaire d'ATM",
+    "description": "Ensemble, construisons un avenir meilleur pour les communautés vulnérables de Madagascar.",
+    "whyTitle": "Pourquoi collaborer avec ATM ?",
+    "typesTitle": "Types de partenariat",
+    "ctaTitle": "Rejoignez notre mission",
+    "ctaText": "Votre soutien change des vies à Ranotsara Nord. Ensemble, construisons un avenir meilleur.",
+    "ctaContact": "Nous contacter",
+    "ctaDonate": "Faire un don"
   },
   "footer": {
     "description": "Association de Travail et de Mutualité œuvrant pour les populations vulnérables de Ranotsara Nord, District d'Iakora, Région Ihorombe.",

@@ -1,7 +1,7 @@
 import { setRequestLocale } from "next-intl/server";
 import Missions from "@/components/sections/Missions";
 import Services from "@/components/sections/Services";
-import WhyUs from "@/components/sections/WhyUs";
+import Partnership from "@/components/sections/Partnership";
 
 export default async function ActionsPage({
   params,
@@ -26,7 +26,7 @@ export default async function ActionsPage({
       </section>
       <Missions />
       <Services />
-      <WhyUs />
+      <Partnership />
     </main>
   );
 }

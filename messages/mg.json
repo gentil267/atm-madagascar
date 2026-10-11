@@ -67,7 +67,7 @@
       "desc": "Fambolena hazo sy fanentanana ho an'ny fiaraha-monina."
     }
   },
-   "administrative": {
+  "administrative": {
     "label": "Toe-pitantanana",
     "title": "Fikambanana ekena ofisialy",
     "description": "Ekena ofisialy ao Madagasikara ny ATM ary manana ny antontan-taratasy ara-pitantanana fototra ilaina, ao anatin'izany ny antontan-taratasy ara-bola.",
@@ -135,6 +135,42 @@
     "ctaText": "Ny fanohananao dia manova fiainana ao Ranotsara Nord. Andao hanangana hoavy tsara kokoa.",
     "ctaDonate": "Manome",
     "ctaContact": "Mifandraisa aminay"
+  },
+  "impact": {
+    "label": "Ny Vokatra",
+    "title": "Ny vokatray amin'ny isa",
+    "description": "Angona mazava manaporofo ny fanoloran-tenantsika eny an-toerana.",
+    "goalsTitle": "Ny tanjonay",
+    "goalsDescription": "Vina mazava ho an'ny taona ho avy."
+  },
+  "missions2027": {
+    "label": "Ny Iraka",
+    "title": "Ny vinanay 2027-2030",
+    "description": "Drafitra ambony hanovana ny fiaraha-monina ao Ranotsara Nord."
+  },
+  "partners": {
+    "label": "Ny Mpiara-miasa",
+    "title": "Matoky anay izy ireo",
+    "description": "Fikambanana mizara ny vinanay ary manohana ny asantsika.",
+    "currentPartners": "Mpiara-miasa ankehitriny"
+  },
+  "reports": {
+    "label": "Fahamarinana",
+    "title": "Ny antontan-taratasinay",
+    "description": "Ny antontan-taratasy rehetra azo alaina amin'ny fahamarinana.",
+    "transparencyTitle": "Ny fanoloran-tenanay amin'ny fahamarinana",
+    "transparencyText": "Ny antontan-taratasy rehetra dia atolotra ny mpiara-miasa sy ny mpanome. Mino izahay amin'ny fitantanana mangarahara."
+  },
+  "partnership": {
+    "label": "Fiaraha-miasa",
+    "title": "Ho mpiara-miasa amin'ny ATM",
+    "description": "Andao hanangana hoavy tsara kokoa ho an'ny vondrom-piarahamonina sahirana eto Madagasikara.",
+    "whyTitle": "Nahoana no hiara-miasa amin'ny ATM ?",
+    "typesTitle": "Karazana fiaraha-miasa",
+    "ctaTitle": "Miara-miasa aminay",
+    "ctaText": "Ny fanohananao dia manova fiainana ao Ranotsara Nord. Andao hanangana hoavy tsara kokoa.",
+    "ctaContact": "Mifandraisa aminay",
+    "ctaDonate": "Manome"
   },
   "footer": {
     "description": "Fikambanan'ny Asa sy ny Fifanampiana miasa ho an'ny mponina sahirana ao Ranotsara Nord, Distrikan'Iakora, Faritr'Ihorombe.",

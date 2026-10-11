@@ -1,6 +1,16 @@
-import Stats from "@/components/sections/Stats";
+import { setRequestLocale } from "next-intl/server";
+import Impact from "@/components/sections/Impact";
+import Missions2027 from "@/components/sections/Missions2027";
+import Reports from "@/components/sections/Reports";
 
-export default function ImpactPage() {
+export default async function ImpactPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+
   return (
     <main>
       <section className="py-20 bg-gradient-to-b from-green-700 to-blue-700 text-white">
@@ -13,7 +23,9 @@ export default function ImpactPage() {
           </p>
         </div>
       </section>
-      <Stats />
+      <Impact />
+      <Missions2027 />
+      <Reports />
     </main>
   );
 }
