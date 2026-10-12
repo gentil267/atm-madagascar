@@ -7,13 +7,13 @@ export default function Partners() {
   const t = useTranslations("partners");
 
   const getStatusColor = (status: string) => {
-    if (status === "actif") return "bg-green-100 text-green-700 border-green-300";
+    if (status === "confirmé") return "bg-green-100 text-green-700 border-green-300";
     if (status === "en cours") return "bg-yellow-100 text-yellow-700 border-yellow-300";
     return "bg-blue-100 text-blue-700 border-blue-300";
   };
 
   const getStatusLabel = (status: string) => {
-    if (status === "actif") return "✅ Actif";
+    if (status === "confirmé") return "✅ Confirmé";
     if (status === "en cours") return "⏳ En cours";
     return "🎯 Potentiel";
   };

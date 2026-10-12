@@ -5,7 +5,7 @@ export interface Partner {
   country: string;
   description: string;
   logo: string;
-  status: "actif" | "en cours" | "potentiel";
+  status: "confirmé" | "en cours" | "potentiel";
 }
 
 export const partners: Partner[] = [
@@ -15,7 +15,7 @@ export const partners: Partner[] = [
     type: "ONG Internationale",
     country: "France 🇫🇷",
     description:
-      "Organisation française accompagnant les associations dans l'accueil de volontaires en Service Civique.",
+      "Organisation française accompagnant les associations dans l'accueil de volontaires en Service Civique. Partenariat en cours d'agrément.",
     logo: "/images/partners/la-guilde.png",
     status: "en cours",
   },
@@ -25,7 +25,7 @@ export const partners: Partner[] = [
     type: "Réseau d'ONG",
     country: "RDC 🇨🇩",
     description:
-      "Communauté de Développement Intégral du Congo — Réseau d'organisations congolaises.",
+      "Communauté de Développement Intégral du Congo — Réseau d'organisations congolaises. Partenariat en cours de discussion.",
     logo: "/images/partners/codic.png",
     status: "en cours",
   },
@@ -35,7 +35,7 @@ export const partners: Partner[] = [
     type: "Organisme Public",
     country: "France 🇫🇷",
     description:
-      "Plateforme française du volontariat international d'échange et de solidarité.",
+      "Plateforme française du volontariat international d'échange et de solidarité. Partenaire potentiel.",
     logo: "/images/partners/france-volontaires.png",
     status: "potentiel",
   },
@@ -45,7 +45,7 @@ export const partners: Partner[] = [
     type: "Organisme Public",
     country: "Madagascar 🇲🇬",
     description:
-      "Antenne malgache de France Volontaires — espace volontariats à Madagascar.",
+      "Antenne malgache de France Volontaires — espace volontariats à Madagascar. Partenaire potentiel.",
     logo: "/images/partners/france-volontaires-mg.png",
     status: "potentiel",
   },

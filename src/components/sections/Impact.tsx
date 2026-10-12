@@ -24,7 +24,7 @@ export default function Impact() {
           <div className="w-24 h-1 bg-gradient-to-r from-green-500 to-blue-600 mx-auto mt-6 rounded-full"></div>
         </div>
 
-        {/* CHIFFRES CLÉS */}
+        {/* CHIFFRES CLÉS AVEC BADGE RÉALISATION/OBJECTIF */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
           {impactStats.map((stat) => (
             <div
@@ -40,9 +40,16 @@ export default function Impact() {
               <div className="text-lg font-bold text-green-700 mb-3">
                 {stat.label}
               </div>
-              <p className="text-sm text-gray-600 leading-relaxed">
+              <p className="text-sm text-gray-600 leading-relaxed mb-4">
                 {stat.description}
               </p>
+              <div className={`inline-block px-3 py-1 rounded-full text-xs font-bold ${
+                stat.status === "réalisation"
+                  ? "bg-green-100 text-green-700"
+                  : "bg-blue-100 text-blue-700"
+              }`}>
+                {stat.status === "réalisation" ? "✅ Réalisation" : "🎯 Objectif"}
+              </div>
             </div>
           ))}
         </div>

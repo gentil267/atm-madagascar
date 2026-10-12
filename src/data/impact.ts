@@ -5,6 +5,7 @@ export interface ImpactStat {
   label: string;
   description: string;
   color: string;
+  status: "réalisation" | "objectif";
 }
 
 export const impactStats: ImpactStat[] = [
@@ -13,16 +14,18 @@ export const impactStats: ImpactStat[] = [
     icon: "👶",
     value: "50+",
     label: "Enfants à la cantine",
-    description: "Enfants bénéficiant de repas réguliers et équilibrés dans le cadre du programme de cantine scolaire.",
+    description: "Enfants bénéficiant de repas réguliers et équilibrés dans le cadre du programme pilote de cantine scolaire.",
     color: "from-green-500 to-green-700",
+    status: "réalisation",
   },
   {
     id: 2,
     icon: "📚",
     value: "500+",
-    label: "Kits scolaires par an",
-    description: "Objectif annuel de kits scolaires distribués aux enfants vulnérables pour favoriser leur scolarisation.",
+    label: "Kits scolaires / an",
+    description: "Objectif annuel de kits scolaires à distribuer aux enfants vulnérables pour favoriser leur scolarisation.",
     color: "from-blue-500 to-blue-700",
+    status: "objectif",
   },
   {
     id: 3,
@@ -31,6 +34,7 @@ export const impactStats: ImpactStat[] = [
     label: "Familles soutenues",
     description: "Familles vulnérables ayant bénéficié d'une assistance alimentaire et d'un accompagnement social depuis 2025.",
     color: "from-yellow-500 to-orange-500",
+    status: "réalisation",
   },
   {
     id: 4,
@@ -39,22 +43,25 @@ export const impactStats: ImpactStat[] = [
     label: "Personnes âgées",
     description: "Personnes âgées bénéficiant d'un accompagnement régulier, de visites à domicile et d'une aide alimentaire.",
     color: "from-purple-500 to-pink-500",
+    status: "réalisation",
   },
   {
     id: 5,
     icon: "👩",
     value: "50+",
     label: "Femmes formées",
-    description: "Femmes vulnérables formées aux activités génératrices de revenus et accompagnées vers l'autonomie.",
+    description: "Objectif : femmes vulnérables à former aux activités génératrices de revenus pour leur autonomie.",
     color: "from-pink-500 to-rose-500",
+    status: "objectif",
   },
   {
     id: 6,
     icon: "🌳",
     value: "1 000+",
     label: "Arbres plantés",
-    description: "Arbres plantés dans le cadre des campagnes de reboisement pour protéger l'environnement.",
+    description: "Objectif : arbres à planter dans le cadre des campagnes de reboisement pour protéger l'environnement.",
     color: "from-emerald-500 to-teal-600",
+    status: "objectif",
   },
 ];
 
